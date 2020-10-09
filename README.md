@@ -1,2 +1,2 @@
 # airPollutionSeoul
- Final Project of Multivariate Statistics Course.
+ The 25 measuring stations in Seoul has measured air pollutants (SO2, NO2, O3, CO, PM10, PM2.5) hourly. Used data by 8 hours. Datasets from 12 AM on 1 January 2017 to 11 PM on 31 December 2019. Every station has its own code (101 to 125). Address, latitude, and longitude indicate where the stations are located. Fitted 2 multivariate regression models. Performed exploratory data analysis and clustering.
