@@ -1,2 +1,2 @@
 # airPollutionSeoul
- Final Project
+ Final Project of Multivariate Statistics Course.
