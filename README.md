@@ -37,22 +37,17 @@ I would like to focus on the data of four air pollutants and the relationship wi
   * Focus on SO<sub>2</sub>, NO<sub>2</sub>, O<sub>3</sub>, CO pollutants
 
 ### Remarkable Plots
-* Figure 3: SO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+* Figure 3: SO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub></br>
 ![](images/SO2.png)
-* Figure 4: NO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+* Figure 4: NO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub></br>
 ![](images/NO2.png)
-* Figure 4: O<sub>3</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+* Figure 4: O<sub>3</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub></br>
 ![](images/O3.png)
-* Figure 4: CO vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+* Figure 4: CO vs. PM<sub>10</sub> & PM<sub>2.5</sub></br>
 ![](images/CO.png)
 
 ### Conclusion
 Only NO<sub>2</sub> out of other pollutants and PMs was positively related to latitude. NO<sub>2</sub> values were recorded higher in northern counties. SO<sub>2</sub> was negatively related to PM<sub>10</sub> and PM<sub>2.5</sub> values. When SO<sub>2</sub> values were high, values of PM<sub>10</sub> and PM<sub>2.5</sub> were recorded low. 51 datasets have very high PM<sub>10</sub> values higher than approximately 2,000. According to the code information, four stations (116, 117, 121, and 122) are located southern or southwestern part of Seoul.
 
 ### Discussion
-* One county has only one measuring station
-  * but the size, population, and number of factories are very various and random
-* Counties with high density of population and factories may have higher air pollutants values than other counties even though they have fewer population and factories in reality
-* More information of predictors/factors can improve analyzing the air pollution data
-* Rain sometimes decreases the air pollution measurements
-  * Better to analyze data collected in the same condition of weather
+One county has only one measuring station, but the size, population, and number of factories are very various and random. Counties with high density of population and factories may have higher air pollutants values than other counties even though they have fewer population and factories in reality. More information of predictors/factors can improve analyzing the air pollution data. Rain sometimes decreases the air pollution measurements. Better to analyze data collected in the same condition of weather.
