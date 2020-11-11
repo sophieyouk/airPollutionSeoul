@@ -38,11 +38,13 @@ I would like to focus on the data of four air pollutants and the relationship wi
 
 ### Remarkable Plots
 * Figure 3: SO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+![](images/SO2)
 * Figure 4: NO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+![](images/NO2)
 * Figure 4: O<sub>3</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
+![](images/O3)
 * Figure 4: CO vs. PM<sub>10</sub> & PM<sub>2.5</sub>
-
-Figure 8: Average Silhouettes under 3, 5, and 7 Clusters
+![](images/CO)
 
 ### Conclusion
 * Only NO<sub>2</sub> out of other pollutants and PMs was positively related to latitude
