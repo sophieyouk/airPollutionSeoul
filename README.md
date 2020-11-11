@@ -38,21 +38,16 @@ I would like to focus on the data of four air pollutants and the relationship wi
 
 ### Remarkable Plots
 * Figure 3: SO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
-![](images/SO2)
+![](images/SO2.png)
 * Figure 4: NO<sub>2</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
-![](images/NO2)
+![](images/NO2.png)
 * Figure 4: O<sub>3</sub> vs. PM<sub>10</sub> & PM<sub>2.5</sub>
-![](images/O3)
+![](images/O3.png)
 * Figure 4: CO vs. PM<sub>10</sub> & PM<sub>2.5</sub>
-![](images/CO)
+![](images/CO.png)
 
 ### Conclusion
-* Only NO<sub>2</sub> out of other pollutants and PMs was positively related to latitude
-  * NO<sub>2</sub> values were recorded higher in northern counties
-* SO<sub>2</sub> was negatively related to PM<sub>10</sub> and PM<sub>2.5</sub> values
-  * When SO<sub>2</sub> values were high, values of PM<sub>10</sub> and PM<sub>2.5</sub> were recorded low
-* 51 datasets have very high PM<sub>10</sub> values higher than approximately 2,000
-  * According to the code information, four stations (116, 117, 121, and 122) are located southern or southwestern part of Seoul
+Only NO<sub>2</sub> out of other pollutants and PMs was positively related to latitude. NO<sub>2</sub> values were recorded higher in northern counties. SO<sub>2</sub> was negatively related to PM<sub>10</sub> and PM<sub>2.5</sub> values. When SO<sub>2</sub> values were high, values of PM<sub>10</sub> and PM<sub>2.5</sub> were recorded low. 51 datasets have very high PM<sub>10</sub> values higher than approximately 2,000. According to the code information, four stations (116, 117, 121, and 122) are located southern or southwestern part of Seoul.
 
 ### Discussion
 * One county has only one measuring station
